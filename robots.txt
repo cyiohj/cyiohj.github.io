@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cyiohj.github.io/sitemap.html.gz
+Sitemap: https://cyiohj.github.io/app/sitemap.html.gz
+Sitemap: https://cyiohj.github.io/assets/sitemap.html.gz
+Sitemap: https://cyiohj.github.io/css/sitemap.html.gz
+Sitemap: https://cyiohj.github.io/data/sitemap.html.gz
+Sitemap: https://cyiohj.github.io/includes/sitemap.html.gz
+Sitemap: https://cyiohj.github.io/item/sitemap.html.gz
+Sitemap: https://cyiohj.github.io/src/sitemap.html.gz
